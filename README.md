@@ -14,4 +14,4 @@ My background lies in the realm of film, photography, and English literature. So
 - ⚡ Fun fact: My right eye is legally blind so my depth perception is essentially nonexistent.
 ---
 **Contact Me**
-_Email_: courtlynoboyle@gmail.com (https://mail.google.com/mail/u/0/#compose)
+_Email_: [courtlynoboyle@gmail.com] (https://mail.google.com/mail/u/0/#compose)
