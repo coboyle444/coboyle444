@@ -1,8 +1,9 @@
-## Hello, world! 👋
+### Hello, world! 👋
 
 <!--
-**coboyle444/coboyle444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**coboyle444/coboyle444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<p>My name is Courtlyn O'Boyle, a first-year student in hopes of getting a diploma in Interactive Design. 
+My background lies in the realm of film, photography, and English literature. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
