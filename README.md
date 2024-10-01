@@ -7,13 +7,13 @@ My background lies in the realm of film, photography, and English literature. </
 <p>So, while I have invested much of my time to researching the Victorian Era, I appreciate the 21st century and the technologies that come with it. My passion for graphic design stemmed from logo-making and poster work for colleague's businesses.</p>
 
 ---
-- 🔭 I’m currently working on my portfolio of graphics that evoke professionalism as well as brand image.
-- 🌱 I’m currently learning how to use various programs extensively such as GitHub Desktop, VS Code and Adobe Premiere Pro.
-- 🤔 I’m looking for help with HTML embeds.
-- 💬 Ask me about gothic poetry.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: My right eye is legally blind so my depth perception is essentially nonexistent.
+- 🔭 **Currently Working On:** My portfolio of graphics that evoke professionalism as well as brand image.
+- 🌱 **Currently Learning:** How to use various programs extensively such as GitHub Desktop, VS Code and Adobe Premiere Pro.
+- 🤔 **I need help with:** HTML embeds.
+- 💬 **Ask me about:** Gothic poetry.
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun Fact:** My right eye is legally blind so my depth perception is essentially nonexistent.
 ---
-**Contact Me**
+📩 **Contact Me** 📩
 <p>
 <i>Email</i>: <a href=courtlynoboyle@gmail.com> courtlynoboyle@gmail.com </p>
